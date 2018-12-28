@@ -1,0 +1,10 @@
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\bin\Debug\RayTracing.exe.config
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\bin\Debug\RayTracing.exe
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\bin\Debug\RayTracing.pdb
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\Assignment3.Form2.resources
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\RayTracing.exe
+C:\Users\TUSHAR\Downloads\Assignment_2 (1)\Assignment_3\Assignment3\obj\Debug\RayTracing.pdb
